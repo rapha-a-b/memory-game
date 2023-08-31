@@ -24,7 +24,7 @@ function checkCards(card) {
         flipCard(e);
         cards = [];
         gameOn = true;
-      }, 800);
+      }, 1500);
     });
   }
 }
